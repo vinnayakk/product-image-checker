@@ -1,0 +1,9 @@
+#virtual environment
+.venv-p-i-c/
+
+#python files
+__pycache__/
+.pytest_cache/
+
+#other files
+report.csv
