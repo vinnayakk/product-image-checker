@@ -8,3 +8,5 @@ __pycache__/
 #other files
 report.csv
 images/
+data/
+latest_run/
